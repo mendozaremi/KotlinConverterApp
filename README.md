@@ -5,3 +5,5 @@ Kotlin converter application made during my time in the Android black+ developme
 - converts Currency Dollars to Euros
 
 ## Demo
+![Alt Text](https://giphy.com/gifs/8qWMtE0fvCpGii0KAe)
+
